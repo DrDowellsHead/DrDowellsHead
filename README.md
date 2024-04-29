@@ -45,9 +45,9 @@ I`m a Python-Backend Developer <img src="https://media.giphy.com/media/WUlplcMpO
 
 ### :keyboard: My some projects :
 
-[1. Automatization of Process](https://github.com/DrDowellsHead/RPA-Challenge)
-[2. Password Generation](https://github.com/DrDowellsHead/Password-Generator)
-[3. Small Game](https://github.com/DrDowellsHead/Guess-The-Number-Game)
+- [Automatization of Process](https://github.com/DrDowellsHead/RPA-Challenge)
+- [Password Generation](https://github.com/DrDowellsHead/Password-Generator)
+- [Small Game](https://github.com/DrDowellsHead/Guess-The-Number-Game)
 
 ---
 
