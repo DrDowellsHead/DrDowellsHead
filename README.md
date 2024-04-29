@@ -16,6 +16,39 @@
   </a>
 </div>
 
+---
+
+### :man_technologist: About Me :
+I`m a Python-Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+- :telescope: I’m working as a Software Engineer and contributing to backend for building applications.
+
+- :desktop_computer: Create a programs with GUI.
+
+- :man_technologist: Create a scripts in Python.
+
+- :zap: In my free time, I solve problems on CodeWars and read tech articles.
+
+- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Alessandro_Ingannamorte-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Alessandro_Ingannamorte)
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
+![Python](https://img.shields.io/badge/Python-316192?style=for-the-badge&logo=python&logoColor=yellow)
+![Python](https://img.shields.io/badge/Django-003300?style=for-the-badge&logo=django&logoColor=yellow)
+![NodeJS](https://img.shields.io/badge/Pandas-BDD0D7?style=for-the-badge&logo=pandas&logoColor=purple)
+![React](https://img.shields.io/badge/Plotly-BDD0D7?style=for-the-badge&logo=plotly&logoColor=grey)
+![Redux](https://img.shields.io/badge/HTML-e55b30?style=for-the-badge&logo=html5&logoColor=white)
+![Threejs](https://img.shields.io/badge/CSS-2790df?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DrDowellsHead&theme=dark&hide_border=%D0%9B%D0%9E%D0%96%D0%AC&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrDowellsHead&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **DrDowellsHead/DrDowellsHead** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
