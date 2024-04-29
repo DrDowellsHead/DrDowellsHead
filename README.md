@@ -43,6 +43,14 @@ I`m a Python-Backend Developer <img src="https://media.giphy.com/media/WUlplcMpO
 
 ---
 
+### :keyboard: My some projects :
+
+[1. Automatization of Process](https://github.com/DrDowellsHead/RPA-Challenge)
+[2. Password Generation](https://github.com/DrDowellsHead/Password-Generator)
+[3. Small Game](https://github.com/DrDowellsHead/Guess-The-Number-Game)
+
+---
+
 ### :fire: My Stats :
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DrDowellsHead&theme=dark&hide_border=%D0%9B%D0%9E%D0%96%D0%AC&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
